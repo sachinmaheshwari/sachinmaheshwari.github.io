@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+ruby '2.4.0'
+gem 'jekyll', '3.4.0'
+gem 'kramdown', '1.13.2'
+gem 'rack-jekyll', '0.5.0'
+gem 'rake', '12.0.0'
+gem 'puma', '3.7.1'
+gem 'yajl-ruby', '1.3.0'
