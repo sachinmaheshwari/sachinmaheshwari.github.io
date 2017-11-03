@@ -1,1 +1,1 @@
-Please open issues for any typo or if something is wrong.
+Please file issues for any typos or things that I get wrong.
