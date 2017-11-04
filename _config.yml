@@ -6,6 +6,7 @@ baseurl: ""
 url: "http://yourdomain.com"
 github_username:  sachinmaheshwari
 linkedin_username: sachinmaheshwari1
+disqus: sachin-blog
 
 # Build settings
 markdown: kramdown
