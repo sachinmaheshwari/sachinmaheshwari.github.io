@@ -4,8 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hello, I'm Sachin Maheshwari. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I'm a Software Engineer from Bangalore, India. I enjoy turning complex problems into simple, clean and intuitive solutions. 
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+These are few of my personal projects that you can checkout.
+1. [Stock Tracker](https://play.google.com/store/apps/details?id=com.sm.stock.StockTracker) - An Android app that can be used for tracking stocks price. 
+2. [Mind Games](https://play.google.com/store/apps/details?id=com.sm.mindgames) - It's an educational game to improve focus and basic mathematical skills.
+
+
+I’m always interested in hearing from interesting folks, so feel free to contact me if you’d like to connect.
