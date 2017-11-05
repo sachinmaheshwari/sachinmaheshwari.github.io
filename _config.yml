@@ -13,5 +13,3 @@ markdown: kramdown
 permalink: pretty
 gems: ['kramdown']
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
-
-theme: jekyll-theme-cayman
