@@ -10,6 +10,6 @@ disqus: sachin-blog
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: /:title 
 gems: ['kramdown']
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
