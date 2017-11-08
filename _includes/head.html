@@ -6,6 +6,7 @@
     <meta name="description" content="{{ site.description }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <!-- Global site tag (gtag.js) - Google Analytics -->
+    {% if site.google_tag_id %}
 	<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_tag_id }}"></script>
 	<script>
 	  window.dataLayer = window.dataLayer || [];
@@ -14,6 +15,7 @@
 
 	  gtag('config', '{{ site.google_tag_id }}');
 	</script>
+	{% endif %}
 	<!-- Custom CSS -->
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
 </head>
