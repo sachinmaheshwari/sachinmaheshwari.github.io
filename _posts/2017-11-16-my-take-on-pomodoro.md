@@ -10,10 +10,10 @@ We all have 24 hours to do whatever we want every day. And we have few choices a
 2. Take control of your time and do what you want to do and at what time.
 
 If we go with the flow, then soon we will realize that we are having a lot of stress and the work-life balance is tilting dangerously towards work. Let's say for e.g. on every new email that comes to us if we are stopping whatever we are doing to read that email. Then after reading that email either we will go back to our original work that we were doing or we might decide to reply that email. Both of these choices will lead to breaking our thought flow or zone that we were in when we got the email. Now to get back to that zone we will need to recollect everything related to what we were doing. Now, this might look like a simple thing, but if we do it multiple times then all such single things collectively tire our brain. And we will feel the effect at the end of the day. This is only what emails can do to us. But we also have phone calls, text messages, interruptions from colleagues, Facebook, Whatsapp and so on.
-co
+
 On the other hand, if we control what can interrupt us and focus on what we want to do and at what time then we will soon feel that we are actually spending more time on the things that matter. And at the end of the day we will feel less tired and exhausted as the overhead of going back to the "_zone_" is no longer there.
 
-To take control of the time I found Pomodoro technique to be very effective. If you want to read more about it in the raw form you can check this [out](https://cirillocompany.de/pages/pomodoro-technique).  
+To take control of the time, I found Pomodoro technique, to be very effective. If you want to read more about it in the raw form you can check this [out](https://cirillocompany.de/pages/pomodoro-technique).  
 
 In this article, I will explain how I'm using this technique to help me with time management.
 
@@ -21,10 +21,10 @@ In this article, I will explain how I'm using this technique to help me with tim
 I start my day by writing down what I have to work on today on a paper under today's date. Along with that I also assign how much time this work might take in terms of Pomodoro boxes. Where each box is worth 25 minutes. There will be few items which will take even lesser time than 25 minutes. For such items, I don't assign any box. Here I also create tasks for checking email or other stuff that I have to do daily. This whole activity usually takes 5 minutes.
 
 One such example could be:
-- [ ] Do daily chores such as check email etc.
-- [ ] Work on feature A.  [ ] [ ] [ ]
-- [ ] Talk to John about feature B.  [ ]
-- [ ] Meeting to finalise requirements for feature C. [ ] [ ]
+- Do daily chores such as check email etc.
+- Work on feature A.  [ ] [ ] [ ]
+- Talk to John about feature B.  [ ]
+- Meeting to finalise requirements for feature C. [ ] [ ]
 
 Here, [ ] represent one Pomodoro of 25 minutes. For unestimated tasks, I usually keep 1-2 Pomodoro boxes daily.
 
@@ -33,10 +33,10 @@ Then I just use my Pomodoro timer to set a timer for 25 minutes and pick the wor
 
 After few Pomodoro's (4 in the example) my list might look like this.
 
-- [X] Do daily chores such as check email etc. [X]
-- [X] Work on feature A.  [X] [X] [X]
-- [ ] ~~Talk to John about feature B.  [ ]~~ John is on leave today. Move this to tomorrow.
-- [ ] Meeting to finalise requirements for feature C. [ ] [ ]
+- ✓ Do daily chores such as check email etc. [X]
+- ✓ Work on feature A.  [X] [X] [X]
+- ~~Talk to John about feature B.  [ ]~~ John is on leave today. Move this to tomorrow.
+- Meeting to finalise requirements for feature C. [ ] [ ]
 
 If I'm able to complete my task before Pomodoro gets over. I move to the next task on my list.
 
