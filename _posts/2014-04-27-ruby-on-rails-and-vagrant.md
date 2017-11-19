@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ruby on Rails and Vagrant"
-date:   2014-09-27 10:31:11
+date:   "2014-09-27"
 categories: ruby vagrant
 ---
 
