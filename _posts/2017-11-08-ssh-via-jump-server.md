@@ -1,7 +1,7 @@
 ---
 title: "How to do ssh via jump server?"
 layout: post
-date: 2017-11-07
+date: "2017-11-07"
 ---
 
 Sometimes, in order to improve security and restrict access, System Administrators can set up one intermediate machine ("jump") that should be used to access any secure machine. So to access this secure machine we have to do ssh to jump machine (or intermediate machine) and then from that machine we have to do ssh to another machine. Although its good in terms of security but it adds one more step in developers work-flow. Furthermore, it complicates scp too. As now you have to download or upload to jump server first then you can do the same operation from jump to secure machine.
@@ -61,6 +61,3 @@ your-machine$ scp prod1:~/somefile.txt .
 ```
 
 And the file will be downloaded on your machine without you ever worrying about jump server.
-
-
-
