@@ -1,5 +1,5 @@
 ---
-title: "Feature flag development"
+title: "Feature flags"
 date: "2020-10-02"
 layout: post
 ---
