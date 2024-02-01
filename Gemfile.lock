@@ -280,6 +280,7 @@ GEM
 PLATFORMS
   x86_64-darwin-19
   x86_64-darwin-21
+  x86_64-darwin-22
 
 DEPENDENCIES
   github-pages (= 226)
@@ -289,7 +290,7 @@ DEPENDENCIES
   webrick (~> 1.7)
 
 RUBY VERSION
-   ruby 3.1.2p20
+   ruby 3.1.4p223
 
 BUNDLED WITH
    2.2.4

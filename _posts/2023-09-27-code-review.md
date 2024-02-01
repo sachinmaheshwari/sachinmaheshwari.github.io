@@ -51,5 +51,5 @@ The following tips and tricks have helped me as both code reviewer and author:
 1. Write comments in the code if you are doing something unexpected or complex. Give the source of information in the comment. For e.g., if you are doing some optimization that reduced the readability of your code, then give sources of information which proves that the optimization done is actually worth the cost of readability. There could be more such examples unrelated to performance such as doing some extra work because of the limitation of any downstream service.
 2. Try to finish the review as soon as possible to unblock the author and reduce the cost of change. The longer we wait for the review to complete, the cost of change will keep on rising as the author would have to re-test the whole flow if something major changes because of the review comments.
 3. Never ever feel that the code review is about you as a person. You should always take any constructive feedback in code review professionally, as it's always about the code and never about you as a person.
-4. Be professional in code comments, give no personal comment. 
+4. Be professional in code comments, give no personal comment.
 
