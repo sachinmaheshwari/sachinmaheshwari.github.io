@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Your database is already a job scheduler"
-date: 2026-07-25 09:00:00 -0000
+date: 2026-07-24 09:00:00 -0000
 tags: [databases, architecture, distributed-systems, postgresql]
 ---
 
