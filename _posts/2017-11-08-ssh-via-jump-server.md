@@ -1,18 +1,18 @@
 ---
-title: "How to do ssh via jump server?"
+title: "How to SSH via a jump server?"
 layout: post
 date: "2017-11-07"
 ---
 
-Sometimes, in order to improve security and restrict access, System Administrators can set up one intermediate machine ("jump") that should be used to access any secure machine. So to access this secure machine we have to do ssh to jump machine (or intermediate machine) and then from that machine we have to do ssh to another machine. Although its good in terms of security but it adds one more step in developers work-flow. Furthermore, it complicates scp too. As now you have to download or upload to jump server first then you can do the same operation from jump to secure machine.
+Sometimes, in order to improve security and restrict access, System Administrators can set up one intermediate machine ("jump") that should be used to access any secure machine. So to access this secure machine we have to do ssh to jump machine (or intermediate machine) and then from that machine we have to do ssh to another machine. Although it's good in terms of security, it adds one more step in developers' workflow. It also complicates scp. As now you have to download or upload to jump server first then you can do the same operation from jump to secure machine.
 
 
 
 Here are the steps that can help in reducing this complication. After following these instructions, the intermediate or jump machine step will become completely transparent to you.
 
-To make it easier to understand. Let's say jump is the hostname of the machine which is the intermediate one and prod1 is the target machine.
+To make it easier to understand, let's say jump is the hostname of the machine which is the intermediate one and prod1 is the target machine.
 
-So with that intermediate step these will be the commands that you have to run:
+With that intermediate step, these are the commands that you have to run:
 
 ```shell
 your-machine$ ssh jump
@@ -47,7 +47,7 @@ Host prod1
 
 That's it!
 
-Now we can run this command. No more jump step needed.
+Now we can run this command. The jump step is no longer needed.
 
 ```shell
 your-machine$ ssh prod1

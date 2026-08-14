@@ -5,10 +5,10 @@ date:   "2014-09-27"
 categories: ruby vagrant
 ---
 
-Recently I got introduced to a great tool called Vagrant. I like this tool because it is helping my life as a developer. My new project is using Ruby on Rails. I liked the simplicity of Ruby but all these gems that it installs in some internal directory got me thinking that it should be done on a separate virtual machine so that I can reclaim the space whenever I need it. Vagrant helped me in achieving that.
+Recently I was introduced to a great tool called Vagrant. I like this tool because it makes my life easier as a developer. My new project is using Ruby on Rails. I liked the simplicity of Ruby but all these gems that it installs in some internal directory got me thinking that it should be done on a separate virtual machine so that I can reclaim the space whenever I need it. Vagrant helped me achieve that.
 
-So here it goes:
-You need to install 2 softwares first:
+Here it goes:
+You need to install two programs first:
 
 1. [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 2. [Vagrant](http://downloads.vagrantup.com/)
@@ -35,7 +35,7 @@ end
 
 
 
-As you see I'm using bootstrap.sh to provision my virtual machine. Here are the contents of my bootstrap.sh
+As you can see I'm using bootstrap.sh to provision my virtual machine. Here are the contents of my bootstrap.sh
 
 ```shell
 #!/bin/bash
@@ -51,4 +51,4 @@ After this you only need to run one command and then sit back and enjoy watching
 
 `vagrant up`
 
-Now you can ssh on that machine and run your Rails applications from your virtual machine.
+Now you can SSH into that machine and run your Rails applications from your virtual machine.
