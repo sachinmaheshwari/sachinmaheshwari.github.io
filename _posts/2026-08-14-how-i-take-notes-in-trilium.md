@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Capture in time, file by context: how I take notes in Trilium"
-date: 2026-08-14 09:00:00 -0000
+date: 2026-08-14
 tags: [productivity, note-taking, trilium, engineering]
 ---
 
